@@ -2,6 +2,8 @@ Archivo de la activida 2 - Erick Morales
 parrafo 2 desde main
 parrafo 3 desde main
 
+parrafo 1 desde user1
+parrafo 2 desde user1
 parrafo 1 desde user2
 parrafo 2 desde user2
 parrafo 3 desde user2
